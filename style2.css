@@ -1,0 +1,44 @@
+h2 {
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+article {
+  border: 3px solid black;
+  font-family: sans-serif;
+}
+
+h4 {
+  font-weight: bolder;
+  font-size: large;
+}
+
+.free {
+  color: #777;
+  font-weight: bolder;
+}
+
+a {
+  text-decoration: underline none;
+  color: black;
+}
+
+ul {
+  list-style: square;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+  border: none;
+}
